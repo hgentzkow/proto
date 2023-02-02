@@ -31,6 +31,10 @@ App = new Layer
     height: 871
     image: "images/AppShadow.png"
 
+AppOutlineLoad = new Layer
+    x: -2000
+    image: "images/AppShadow.png"
+
 Instructions = new Layer
     width: 210
     height: 152
