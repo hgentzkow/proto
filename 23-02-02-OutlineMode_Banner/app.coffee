@@ -33,7 +33,7 @@ App = new Layer
 
 AppOutlineLoad = new Layer
     x: -2000
-    image: "images/AppShadow.png"
+    image: "images/AppOutlineShadow.png"
 
 Instructions = new Layer
     width: 210
