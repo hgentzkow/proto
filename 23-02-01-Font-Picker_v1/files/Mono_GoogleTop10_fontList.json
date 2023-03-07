@@ -2,6 +2,282 @@
 {
     "fonts": [
         {
+            "name": "ABeeZee", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Abel", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Abhaya Libre", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Aboreto", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Abril Fatface", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Abyssinica SIL", 
+            "size": 18,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Aclonica", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Acme", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Actor", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Adamina", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Advent Pro", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+
+
+
+        {
+            "name": "Aguafina Script", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Akaya Kanadaka", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+
+
+
+        {
+            "name": "Akronim", 
+            "size": 18,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Akshar", 
+            "size": 16,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Aladin", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Alata", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Alatsi", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Albert Sans", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Aldrich", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Alef", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },{
+            "name": "Alegreya", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },{
+            "name": "Aleo", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },{
+            "name": "Alex Brush", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Caveat", 
+            "size": 20,
+            "yOffset": -2,
+            "xOffset": -2,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Satisfy", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Indie Flower", 
+            "size": 21,
+            "yOffset": 0,
+            "xOffset": 1,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        
+
+
+        {
             "name": "Roboto Mono", 
             "size": 18,
             "yOffset": 0,
@@ -33,7 +309,7 @@
         },
         {
             "name": "IBM Plex Mono", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -61,30 +337,13 @@
             "set": "Web",
             "show": true
         },
+
+
+
         {
-            "name": "Ubuntu Mono", 
-            "size": 20,
-            "yOffset": -2,
-            "xOffset": 0,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Nanum Gothic Coding", 
+            "name": "Roboto Slab", 
             "size": 18,
             "yOffset": 0,
-            "xOffset": 1,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Cousine", 
-            "size": 18,
-            "yOffset": 2,
             "xOffset": 0,
             "kerning": 0,
             "category": "Sans",
@@ -92,7 +351,47 @@
             "show": true
         },
         {
-            "name": "Fira Mono", 
+            "name": "Playfair Display", 
+            "size": 18,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Merriweather", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Lora", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "PT Serif", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Noto Serif", 
             "size": 18,
             "yOffset": 0,
             "xOffset": 0,

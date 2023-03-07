@@ -2,27 +2,7 @@
 {
     "fonts": [
         {
-            "name": "Dancing Script", 
-            "size": 18,
-            "yOffset": -1,
-            "xOffset": 0,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Pacifico", 
-            "size": 16,
-            "yOffset": -1,
-            "xOffset": 0,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Shadows Into Light", 
+            "name": "Roboto Mono", 
             "size": 18,
             "yOffset": 0,
             "xOffset": 0,
@@ -32,19 +12,59 @@
             "show": true
         },
         {
-            "name": "Caveat", 
+            "name": "Inconsolata", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Source Code Pro", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": -1.5,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "IBM Plex Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Space Mono", 
+            "size": 18,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "PT Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Ubuntu Mono", 
             "size": 20,
             "yOffset": -2,
-            "xOffset": -2,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Satisfy", 
-            "size": 18,
-            "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
             "category": "Sans",
@@ -52,8 +72,8 @@
             "show": true
         },
         {
-            "name": "Indie Flower", 
-            "size": 21,
+            "name": "Nanum Gothic Coding", 
+            "size": 18,
             "yOffset": 0,
             "xOffset": 1,
             "kerning": 0,
@@ -62,9 +82,9 @@
             "show": true
         },
         {
-            "name": "Permanent Marker", 
+            "name": "Cousine", 
             "size": 18,
-            "yOffset": 0,
+            "yOffset": 2,
             "xOffset": 0,
             "kerning": 0,
             "category": "Sans",
@@ -72,27 +92,7 @@
             "show": true
         },
         {
-            "name": "Amatic SC", 
-            "size": 18,
-            "yOffset": 0,
-            "xOffset": 0,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Covered By Your Grace", 
-            "size": 20,
-            "yOffset": -2,
-            "xOffset": 0,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Kalam", 
+            "name": "Fira Mono", 
             "size": 18,
             "yOffset": 0,
             "xOffset": 0,
