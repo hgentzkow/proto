@@ -412,7 +412,7 @@ FontSetMenuName = new TextLayer
 	x: 16
 	y: 14
 	fontSize: 10
-	fontFamily: "Inter"
+	fontFamily: Utils.loadWebFont "Inter"
 	fontWeight: 500
 	color: "black"
 	superLayer: FontSets
@@ -741,7 +741,7 @@ entryText = new TextLayer
 	y: 6
 	color: "black"
 	fontSize: 15
-	fontFamily: "Inter"
+	fontFamily: Utils.loadWebFont "Inter"
 
 entryButton.on Events.MouseOver, (e) ->
 	this.backgroundColor = "#F5F5F5"
@@ -819,7 +819,7 @@ for item, index in fontSetMenuArray
 			x: 32
 			y: 4
 			fontSize: 11
-			fontFamily: "Inter"
+			fontFamily: Utils.loadWebFont "Inter"
 			color: "white"
 			superLayer: menuItem
 		
@@ -990,7 +990,7 @@ hoverOptionLabel = new TextLayer
 	y: 225
 	fontSize: 11
 	fontWeight: "bold"
-	fontFamily: "Inter"
+	fontFamily: Utils.loadWebFont "Inter"
 	color: "black"
 
 
@@ -1020,7 +1020,7 @@ hoverDelayTimeLabel = new TextLayer
 	y: 249
 	fontSize: 11
 	fontWeight: "bold"
-	fontFamily: "Inter"
+	fontFamily: Utils.loadWebFont "Inter"
 	color: "black"
 
 # SWITCH OPTIONS:
