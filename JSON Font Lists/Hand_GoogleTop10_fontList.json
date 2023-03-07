@@ -1,0 +1,95 @@
+
+{
+    "fonts": [
+        {
+            "name": "Dancing Script", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Pacifico", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Shadows Into Light", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Caveat", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Satisfy", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Indie Flower", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Permanent Marker", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Amatic SC", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Covered By Your Grace", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Kalam", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        }
+    ]
+}

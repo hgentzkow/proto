@@ -1,0 +1,327 @@
+
+{
+    "fonts": [
+        {
+            "name": "Avenir", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Poppins", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Montserrat", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Open Sans", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Lato", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Source Sans Pro", 
+            "size": 18,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Manrope", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Nunito", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "SDM Sans", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Rubik", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Raleway", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+
+
+
+        {
+            "name": "Oswald", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Inter", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+
+
+
+        {
+            "name": "Dancing Script", 
+            "size": 18,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Pacifico", 
+            "size": 16,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Shadows Into Light", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Caveat", 
+            "size": 20,
+            "yOffset": -2,
+            "xOffset": -2,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Satisfy", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Indie Flower", 
+            "size": 21,
+            "yOffset": 0,
+            "xOffset": 1,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        
+
+
+        {
+            "name": "Roboto Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Inconsolata", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Source Code Pro", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": -1.5,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "IBM Plex Mono", 
+            "size": 16,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Space Mono", 
+            "size": 18,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "PT Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+
+
+
+        {
+            "name": "Roboto Slab", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Playfair Display", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Merriweather", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Lora", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "PT Serif", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Noto Serif", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        }
+    ]
+}

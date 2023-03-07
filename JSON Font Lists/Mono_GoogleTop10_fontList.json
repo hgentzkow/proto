@@ -1,0 +1,95 @@
+
+{
+    "fonts": [
+        {
+            "name": "Roboto Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Inconsolata", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Source Code Pro", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "IBM Plex Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Space Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "PT Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Ubuntu Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Nanum Gothic Coding", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Cousine", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Fira Mono", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        }
+    ]
+}

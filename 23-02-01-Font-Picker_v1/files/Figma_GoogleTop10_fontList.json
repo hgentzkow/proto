@@ -1,0 +1,105 @@
+
+{
+    "fonts": [
+        {
+            "name": "Poppins", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Montserrat", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Open Sans", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Lato", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Source Sans Pro", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Manrope", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Nunito", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "SDM Sans", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Rubik", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Raleway", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        }
+    ]
+}

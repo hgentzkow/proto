@@ -1,0 +1,105 @@
+
+{
+    "fonts": [
+        {
+            "name": "Roboto Slab", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Playfair Display", 
+            "size": 18,
+            "yOffset": -2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Merriweather", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Lora", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "PT Serif", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Noto Serif", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Libre Baskerville", 
+            "size": 16,
+            "yOffset": 2,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Source Serif Pro", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Bitter", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "EB Garamond", 
+            "size": 18,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        }
+    ]
+}
