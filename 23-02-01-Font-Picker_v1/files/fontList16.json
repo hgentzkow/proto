@@ -3,7 +3,7 @@
     "fonts": [
         {
             "name": "Avenir", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -13,8 +13,8 @@
         },
         {
             "name": "Poppins", 
-            "size": 18,
-            "yOffset": 0,
+            "size": 16,
+            "yOffset": -2,
             "xOffset": 0,
             "kerning": 0,
             "category": "Sans",
@@ -23,7 +23,7 @@
         },
         {
             "name": "Montserrat", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -33,7 +33,7 @@
         },
         {
             "name": "Open Sans", 
-            "size": 18,
+            "size": 16,
             "yOffset": -2,
             "xOffset": 0,
             "kerning": 0,
@@ -43,7 +43,7 @@
         },
         {
             "name": "Lato", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -53,7 +53,7 @@
         },
         {
             "name": "Source Sans Pro", 
-            "size": 18,
+            "size": 16,
             "yOffset": -1,
             "xOffset": 0,
             "kerning": 0,
@@ -63,7 +63,7 @@
         },
         {
             "name": "Manrope", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -73,7 +73,7 @@
         },
         {
             "name": "Nunito", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -83,7 +83,7 @@
         },
         {
             "name": "SDM Sans", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -93,7 +93,7 @@
         },
         {
             "name": "Rubik", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -103,7 +103,7 @@
         },
         {
             "name": "Raleway", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -116,7 +116,7 @@
 
         {
             "name": "Oswald", 
-            "size": 18,
+            "size": 16,
             "yOffset": -2,
             "xOffset": 0,
             "kerning": 0,
@@ -126,7 +126,7 @@
         },
         {
             "name": "Inter", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -139,16 +139,6 @@
 
         {
             "name": "Dancing Script", 
-            "size": 18,
-            "yOffset": -1,
-            "xOffset": 0,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Pacifico", 
             "size": 16,
             "yOffset": -1,
             "xOffset": 0,
@@ -158,8 +148,18 @@
             "show": true
         },
         {
+            "name": "Pacifico", 
+            "size": 14,
+            "yOffset": -1,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
             "name": "Shadows Into Light", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -169,7 +169,7 @@
         },
         {
             "name": "Caveat", 
-            "size": 20,
+            "size": 18,
             "yOffset": -2,
             "xOffset": -2,
             "kerning": 0,
@@ -179,7 +179,7 @@
         },
         {
             "name": "Satisfy", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -189,7 +189,7 @@
         },
         {
             "name": "Indie Flower", 
-            "size": 21,
+            "size": 19,
             "yOffset": 0,
             "xOffset": 1,
             "kerning": 0,
@@ -202,36 +202,6 @@
 
         {
             "name": "Roboto Mono", 
-            "size": 18,
-            "yOffset": 0,
-            "xOffset": 0,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Inconsolata", 
-            "size": 18,
-            "yOffset": 0,
-            "xOffset": 0,
-            "kerning": 0,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "Source Code Pro", 
-            "size": 18,
-            "yOffset": 0,
-            "xOffset": 0,
-            "kerning": -1.5,
-            "category": "Sans",
-            "set": "Web",
-            "show": true
-        },
-        {
-            "name": "IBM Plex Mono", 
             "size": 16,
             "yOffset": 0,
             "xOffset": 0,
@@ -241,8 +211,38 @@
             "show": true
         },
         {
+            "name": "Inconsolata", 
+            "size": 16,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "Source Code Pro", 
+            "size": 16,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": -1.5,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
+            "name": "IBM Plex Mono", 
+            "size": 14,
+            "yOffset": 0,
+            "xOffset": 0,
+            "kerning": 0,
+            "category": "Sans",
+            "set": "Web",
+            "show": true
+        },
+        {
             "name": "Space Mono", 
-            "size": 18,
+            "size": 16,
             "yOffset": -1,
             "xOffset": 0,
             "kerning": 0,
@@ -252,7 +252,7 @@
         },
         {
             "name": "PT Mono", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -265,7 +265,7 @@
 
         {
             "name": "Roboto Slab", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -275,8 +275,8 @@
         },
         {
             "name": "Playfair Display", 
-            "size": 18,
-            "yOffset": -1,
+            "size": 16,
+            "yOffset": -2,
             "xOffset": 0,
             "kerning": 0,
             "category": "Sans",
@@ -285,7 +285,7 @@
         },
         {
             "name": "Merriweather", 
-            "size": 18,
+            "size": 15,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -295,7 +295,7 @@
         },
         {
             "name": "Lora", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -305,7 +305,7 @@
         },
         {
             "name": "PT Serif", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
@@ -315,7 +315,7 @@
         },
         {
             "name": "Noto Serif", 
-            "size": 18,
+            "size": 16,
             "yOffset": 0,
             "xOffset": 0,
             "kerning": 0,
